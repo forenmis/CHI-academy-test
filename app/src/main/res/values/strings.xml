@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CHI academy test</string>
+    <string name="incr">+</string>
 </resources>
