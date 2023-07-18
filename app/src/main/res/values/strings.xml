@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CHI academy test</string>
+    <string name="all">All</string>
+    <string name="favorite">Favorite</string>
+</resources>
